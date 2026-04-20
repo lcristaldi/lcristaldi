@@ -22,7 +22,7 @@
 
 ### &nbsp;&nbsp;The short version
 
-<img align="right" width="300" src="https://gifdb.com/images/high/lofi-train-alone-chilling-b78fxpec0se4ttjl.gif" alt="lofi train" style="border-radius: 16px; margin-left: 20px"/>
+<img align="right" width="220" src="https://gifdb.com/images/high/lofi-train-alone-chilling-b78fxpec0se4ttjl.gif" alt="lofi train" style="border-radius: 16px; margin-left: 20px"/>
 
 &nbsp;&nbsp;Full-stack AI engineer wiring advanced models into real, operational
 &nbsp;&nbsp;systems — API surfaces, complex state, and the frontend craft that
@@ -143,12 +143,11 @@
 
   <br/><br/>
 
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=dfmontoya02&show_icons=true&hide_border=true&bg_color=FAFAFA&title_color=1B4B75&text_color=18181B&icon_color=B87A3D&ring_color=1B4B75&count_private=true" alt="stats"/>
-  <img height="165" src="https://streak-stats.demolab.com?user=dfmontoya02&hide_border=true&background=FAFAFA&stroke=E4E4E7&ring=1B4B75&fire=B87A3D&currStreakLabel=1B4B75&sideLabels=18181B&dates=71717A&currStreakNum=18181B&sideNums=18181B" alt="streak"/>
+  <img width="85%" src="https://github-readme-activity-graph.vercel.app/graph?username=dfmontoya02&bg_color=FAFAFA&color=1B4B75&line=B87A3D&point=9A5555&area=true&area_color=1B4B75&hide_border=true&custom_title=Contribution%20Activity" alt="activity graph"/>
 
   <br/><br/>
 
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dfmontoya02&layout=compact&hide_border=true&bg_color=FAFAFA&title_color=1B4B75&text_color=18181B&langs_count=10" alt="top languages"/>
+  <img height="170" src="https://streak-stats.demolab.com?user=dfmontoya02&hide_border=true&background=FAFAFA&stroke=E4E4E7&ring=1B4B75&fire=B87A3D&currStreakLabel=1B4B75&sideLabels=18181B&dates=71717A&currStreakNum=18181B&sideNums=18181B" alt="streak"/>
 
 </div>
 
