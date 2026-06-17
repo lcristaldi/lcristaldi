@@ -73,7 +73,41 @@
   <sub><b>· &nbsp; T O O L K I T &nbsp; ·</b></sub>
 
   <br/><br/>
-<a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css,vite&theme=light" alt="frontend"/> </a> <br/> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,java,rust,tauri,sqlite&theme=light" alt="backend"/> </a> <br/> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=docker,aws,git,vercel&theme=light" alt="infra + tools"/> </a> <br/> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=solidity,rust,web3,hardhat,etherjs&theme=light" alt="blockchain"/> </a> <br/> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=unity,unreal,godot,blender,cs&theme=light" alt="game dev"/> </a>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css,vite&theme=light" alt="frontend"/>
+</a>
+<br/>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,java,rust,tauri,sqlite&theme=light" alt="backend"/>
+</a>
+<br/>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=docker,aws,git,vercel&theme=light" alt="infra + tools"/>
+</a>
+<br/>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=solidity,rust,web3,hardhat,etherjs&theme=light" alt="blockchain"/>
+</a>
+<br/>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=unity,unreal,godot,blender,cs&theme=light" alt="game dev"/>
+</a>
+<br/>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,redis,nginx,linux,bash,kubernetes&theme=light" alt="database + devops"/>
+</a>
+<br/>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=graphql,apollo,redux,webpack,babel,jest,cypress&theme=light" alt="additional tools"/>
+</a>
+<br/>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=cpp,go,swift,kotlin,flutter,dart,firebase&theme=light" alt="mobile + systems"/>
+</a>
+<br/>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,raspberrypi,arduino&theme=light" alt="ai + iot"/>
+</a>
 
 </div>
 
