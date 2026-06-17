@@ -1,10 +1,10 @@
 <!-- ─────────────────────────────────────────────────────────────────────── -->
-<!--  Painterly profile README — watercolor palette from danny-portfolio    -->
+<!--  Painterly profile README — watercolor palette from Naro-portfolio    -->
 <!-- ─────────────────────────────────────────────────────────────────────── -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1b4b75,25:546988,50:9a5555,75:b87a3d,100:7d4a2a&height=240&section=header&text=Danny%20Montoya&fontSize=64&fontColor=fafafa&fontAlignY=40&desc=Full-Stack%20AI%20Engineer%20%E2%80%A2%20Shipping%20products%20end-to-end&descAlignY=62&descSize=17&descColor=fafafa&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1b4b75,25:546988,50:9a5555,75:b87a3d,100:7d4a2a&height=240&section=header&text=Naro%20Katoshi&fontSize=64&fontColor=fafafa&fontAlignY=40&desc=Full-Stack%20AI%20Engineer%20%E2%80%A2%20Shipping%20products%20end-to-end&descAlignY=62&descSize=17&descColor=fafafa&animation=fadeIn" width="100%"/>
 
 <br/>
 
@@ -46,7 +46,7 @@
 
   <br/><br/>
 
-  <a href="https://danny-portfolio-zeta.vercel.app/">
+  <a href="https://naro.name89maggiotht.workers.dev/">
     <img src="https://img.shields.io/badge/Portfolio-1B4B75?style=for-the-badge&logo=vercel&logoColor=fafafa" alt="Portfolio"/>
   </a>&nbsp;
   <a href="https://www.linkedin.com/in/daniel-montoya-1bba8421b/">
@@ -131,9 +131,9 @@
         <td align="center"><a href="https://project-yc9yt.vercel.app/">site →</a></td>
       </tr>
       <tr>
-        <td align="center"><b><a href="https://danny-portfolio-zeta.vercel.app/">Portfolio</a></b><br/><sub>the one you're reading about</sub></td>
+        <td align="center"><b><a href="https://naro.name89maggiotht.workers.dev/">Portfolio</a></b><br/><sub>the one you're reading about</sub></td>
         <td align="center">React · Vite · Tailwind</td>
-        <td align="center"><a href="https://danny-portfolio-zeta.vercel.app/">site →</a></td>
+        <td align="center"><a href="https://naro.name89maggiotht.workers.dev/">site →</a></td>
       </tr>
     </tbody>
   </table>
