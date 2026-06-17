@@ -74,15 +74,15 @@
 
   <br/><br/>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css,vite&theme=light" alt="frontend"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,tailwind&theme=light" alt="frontend"/>
 </a>
 <br/>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,java,rust,tauri,sqlite&theme=light" alt="backend"/>
+  <img src="https://skillicons.dev/icons?i=python,nodejs,java,rust,fastapi,tauri,sqlite&theme=light" alt="backend"/>
 </a>
 <br/>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=docker,aws,git,vercel&theme=light" alt="infra + tools"/>
+  <img src="https://skillicons.dev/icons?i=git,docker,aws,vercel&theme=light" alt="infra + tools"/>
 </a>
 <br/>
 <a href="https://skillicons.dev">
@@ -90,7 +90,7 @@
 </a>
 <br/>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=unity,unreal,godot,blender,cs&theme=light" alt="game dev"/>
+  <img src="https://skillicons.dev/icons?i=cs,unity,unreal,godot,blender&theme=light" alt="game dev"/>
 </a>
 <br/>
 <a href="https://skillicons.dev">
@@ -98,11 +98,11 @@
 </a>
 <br/>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=graphql,apollo,redux,webpack,babel,jest,cypress&theme=light" alt="additional tools"/>
+  <img src="https://skillicons.dev/icons?i=redux,graphql,apollo,jest,cypress,babel,webpack&theme=light" alt="additional tools"/>
 </a>
 <br/>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=cpp,go,swift,kotlin,flutter,dart,firebase&theme=light" alt="mobile + systems"/>
+  <img src="https://skillicons.dev/icons?i=cpp,go,swift,kotlin,dart,flutter,firebase&theme=light" alt="mobile + systems"/>
 </a>
 <br/>
 <a href="https://skillicons.dev">
