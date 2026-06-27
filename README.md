@@ -86,7 +86,7 @@
 </a>
 <br/>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,docker,aws,vercel,solidity,web3,hardhat,etherjs&theme=light" alt="infra + blockchain"/>
+  <img src="https://skillicons.dev/icons?i=git,docker,aws,vercel,solidity,php,atom,laravel&theme=light" alt="infra + blockchain"/>
 </a>
 <br/>
 <a href="https://skillicons.dev">
