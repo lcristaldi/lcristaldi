@@ -46,7 +46,7 @@
 
   <br/><br/>
 
-  <a href="https://naro.name89maggiotht.workers.dev/">
+  <a href="https://onyx.name89maggiotht.workers.dev/">
     <img src="https://img.shields.io/badge/Portfolio-1B4B75?style=for-the-badge&logo=vercel&logoColor=fafafa" alt="Portfolio"/>
   </a>&nbsp;
   <a href="https://www.linkedin.com/in/daniel-montoya-1bba8421b/">
@@ -82,7 +82,7 @@
 </a>
 <br/>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,nodejs,java,rust,fastapi,tauri,sqlite&theme=light" alt="backend"/>
+  <img src="https://skillicons.dev/icons?i=python,nodejs,java,rust,fastapi,tauri,sqlite,anaconda&theme=light" alt="backend"/>
 </a>
 <br/>
 <a href="https://skillicons.dev">
@@ -158,9 +158,9 @@
         <td align="center"><a href="https://project-yc9yt.vercel.app/">site →</a></td>
       </tr>
       <tr>
-        <td align="center"><b><a href="https://naro.name89maggiotht.workers.dev/">Portfolio</a></b><br/><sub>the one you're reading about</sub></td>
+        <td align="center"><b><a href="https://onyx.name89maggiotht.workers.dev/">Portfolio</a></b><br/><sub>the one you're reading about</sub></td>
         <td align="center">React · Vite · Tailwind</td>
-        <td align="center"><a href="https://naro.name89maggiotht.workers.dev/">site →</a></td>
+        <td align="center"><a href="https://onyx.name89maggiotht.workers.dev">site →</a></td>
       </tr>
     </tbody>
   </table>
